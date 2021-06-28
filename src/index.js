@@ -19,7 +19,7 @@ import { useSelector } from "redux";
 
 
 ReactDOM.render(
-  
+
   <Provider store={store}>
   <React.StrictMode>
     <App />
